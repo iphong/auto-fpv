@@ -26,7 +26,7 @@ void telemetryCallback(BLERemoteCharacteristic *characteristic, uint8_t *data, s
 
 class onDiscovered : public BLEAdvertisedDeviceCallbacks {
 	void onResult(BLEAdvertisedDevice device) override {
-		Serial.printf("-- Found device --> %s\n", device.toString().c_str());
+//		Serial.printf("-- Found device --> %s\n", device.toString().c_str());
 		if (device.haveName() && device.getName() == "Hello") {
 			BLEDevice::getScan()->stop();
 			myDevice = new BLEAdvertisedDevice(device);
