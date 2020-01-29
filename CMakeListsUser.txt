@@ -1,0 +1,4 @@
+
+include_directories(lib/crossfire)
+include_directories(lib/smartport)
+include_directories(lib/rx5808)
