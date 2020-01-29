@@ -87,4 +87,4 @@ add_custom_target(
     WORKING_DIRECTORY ${CMAKE_CURRENT_SOURCE_DIR}
 )
 
-add_executable(Z_DUMMY_TARGET ${SRC_LIST} src/main.cpp lib/crossfire/crossfire.h lib/vtx/vtx.h lib/rx5808/rx5808.h)
+add_executable(Z_DUMMY_TARGET ${SRC_LIST} src/main.cpp)
