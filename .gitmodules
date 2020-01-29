@@ -10,3 +10,6 @@
 [submodule "lib/crossfire"]
 	path = lib/crossfire
 	url = https://github.com/iphong/lib-crossfire.git
+[submodule "lib/rx5808"]
+	path = lib/rx5808
+	url = https://github.com/iphong/lib-rx5808.git
