@@ -1,12 +1,3 @@
-[submodule "vtx"]
-	path = vtx
-	url = https://github.com/iphong/lib-vtx.git
-[submodule "crossfire"]
-	path = crossfire
-	url = https://github.com/iphong/lib-crossfire.git
-[submodule "lib/vtx"]
-	path = lib/vtx
-	url = https://github.com/iphong/lib-vtx.git
 [submodule "lib/crossfire"]
 	path = lib/crossfire
 	url = https://github.com/iphong/lib-crossfire.git
