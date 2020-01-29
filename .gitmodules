@@ -4,6 +4,6 @@
 [submodule "lib/rx5808"]
 	path = lib/rx5808
 	url = https://github.com/iphong/lib-rx5808.git
-[submodule "lib/frsky"]
-	path = lib/frsky
-	url = https://github.com/iphong/lib-frsky.git
+[submodule "lib/smartport"]
+	path = lib/smartport
+	url = https://github.com/iphong/lib-smartport.git
