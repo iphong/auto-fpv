@@ -5,6 +5,8 @@
 #ifndef GPS_TRACKER_BLUETOOTH_CPP
 #define GPS_TRACKER_BLUETOOTH_CPP
 
+#define bar 2
+
 #include <Arduino.h>
 #include <BLEDevice.h>
 #include <crossfire.h>
